@@ -1,0 +1,9 @@
+.desc {
+  line-height: 1.3;
+  padding: 10px;
+}
+
+.date {
+  font-size: 80%;
+  text-align: right;
+}
